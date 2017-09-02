@@ -1,14 +1,13 @@
-<!DOCTYPE html>
 <html>
 
 <!-- header include -->
-<?php include ('includes\header.php'); ?>
+<?php include ('includes/header.php'); ?>
 
 <body>
   <!-- TODO:  style everything using bootstrap and add the navbar -->
   <!-- Nav Include -->
 
-  <?php include ('includes\nav.php'); ?>
+  <?php include ('includes/nav.php'); ?>
 
   <div class="container-fluid ">
     <h1 class="text-center">The Bible (a.k.a. the syllabus)</h1>
@@ -358,6 +357,6 @@
 </body>
 
   <!-- JavaScript Include -->
-  <?php include ('includes\javaScriptCdn.php'); ?>
+  <?php include ('includes/javaScriptCdn.php'); ?>
 
 </html>
