@@ -14,7 +14,7 @@
 <li>
     2.1.1 Outline the architecture of the central processing unit (CPU) and the functions of the arithmetic logic unit (ALU) and the control unit (CU) and the registers within the CPU.
     </li>
-<li>2.1.2 Describe primary memory. 2 Distinguish between random access memory (RAM) and read-only memory (ROM), and their use in primary memory.
+<li>2.1.2 Describe <span href='primaryMemory.php'> primary memory.</span> 2 Distinguish between random access memory (RAM) and read-only memory (ROM), and their use in primary memory.
 
 </li>
 <li>
