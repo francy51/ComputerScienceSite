@@ -23,6 +23,9 @@ so the CU must perfectly time the tasks performed so that there are no bottle ne
 This is because each core has its own CU directing it. This is realley hard to do as it is almost impossible to stop all bottle neck and stoping the cores from waiting.
 Although in modern day computer waiting does happen it is very minimal and ultimatly doesn't cause major decrease in performance. </p>
 
+<h1>Homework</h1>
+<p>The CPU uses something called the fetch,decode and execute cycle to process information. Basically what happens is that the PROGRAM COUNTER (PC) containts the current adress being used by the CONTROL UNIT (CU) whilst the MEMORY ADRESS REGISTER conatins the adress to look at for the next fetch cycle intructions. This adress is then loaded onto the ADDRESS BUS (AB) which tell the RAM what memory location to send back. The INSTRUCTION REGISTER (IR) instead hols the instruction being currently used by the CU. The MEMORY DATA REGISTER instead holds the current data being manipulated within the CPU. This data can then be stored. The RAM then places the data onto the DATA BUS (DB) which transmits the data back to the CU which then inturn decides what the ARITHMATIC LOGIC UNIT (ALU) and all other units within the CPU do. </p>
+
 </div>
   </body>
   <!-- JavaScript Include -->
