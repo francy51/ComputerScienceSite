@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <html>
 <!-- header include -->
 <?php include ('includes/header.php'); ?>

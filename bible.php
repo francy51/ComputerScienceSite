@@ -239,7 +239,7 @@
                   <li>7.1.7 Compare a centrally controlled system with a distributed system 7.1.7</li>
 
                   <li>7.1.8 Outline the role of autonomous agents acting within a larger system</li>
-
+</ul>
 
 
 

@@ -13,7 +13,29 @@ can start from this template-->
 
   <div class="container-fluid">
     <h1 class="text-center"> Control (HL)</h1>
-    <h1 class="text-center">OOPS! Nothing is here yet try again later. :)</h1>
+    <h1 class="text-center">Topic 7</h1>
+      <ul>
+        <li>7.1.1 Discuss a range of control systems 7.1.1</li>
+
+        <li> <a href="controlSystems.php#7.1.2">7.1.2 Outline the uses of microprocessors and sensor input in control systems </a></li>
+
+        <li>7.1.3 Evaluate different input devices for the collection of data in specified situations </li>
+
+        <li>7.1.4 Explain the relationship between a sensor, the processor and an output transducer </li>
+
+        <li>7.1.5 Describe the role of feedback in a control system 7.1.5</li>
+
+        <li>7.1.6 Discuss the social impacts and ethical considerations associated with the use of embedded systems</li>
+
+        <li>Distributed systems <ul>
+
+
+          <li>7.1.7 Compare a centrally controlled system with a distributed system 7.1.7</li>
+
+          <li>7.1.8 Outline the role of autonomous agents acting within a larger system</li>
+        </ul></li>
+
+
   </div>
 
 </body>

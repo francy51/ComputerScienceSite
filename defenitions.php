@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 <!-- TODO: copy all definitions and style remember to id the defenition using the same name as the map created on the diagram -->
 
