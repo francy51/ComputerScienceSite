@@ -40,10 +40,10 @@
   2.1.6 Describe the main functions of an operating system.
   </li>
   <li>
-    2.1.7 Outline the use of a range of application software.
+    2.1.7 Outline the use of a range of <a href="/applications.php">application</a>  software.
   </li>
   <li>
-    2.1.8 Identify common features of applications.
+    2.1.8 Identify common features of <a href="/applications.php">application</a>.
   </li>
 </ul>
 
