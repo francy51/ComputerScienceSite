@@ -14,6 +14,7 @@ can start from this template-->
   <div class="container-fluid">
     <h1 class="text-center"> Control (HL)</h1>
     <h1 class="text-center">Topic 7</h1>
+    <h2> Control Systems </h2>
       <ul>
         <li>7.1.1 Discuss a range of control systems 7.1.1</li>
 
@@ -27,13 +28,17 @@ can start from this template-->
 
         <li>7.1.6 Discuss the social impacts and ethical considerations associated with the use of embedded systems</li>
 
-        <li>Distributed systems <ul>
+</uL>
+      <h2>
+        Distributed systems 
+      </h2>
+       <ul>
 
 
           <li>7.1.7 Compare a centrally controlled system with a distributed system 7.1.7</li>
 
           <li>7.1.8 Outline the role of autonomous agents acting within a larger system</li>
-        </ul></li>
+        </ul>
 
 
   </div>

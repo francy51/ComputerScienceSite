@@ -21,7 +21,7 @@
           <!-- Central Processing Unit -->
           <area shape="rect" coords="480,50,275,95" href="defenitions.php#CentralProcessingUnit" alt="Central Processing Unit Button">
           <!-- Control Unit -->
-          <area shape="rect" coords="375,100,275,150" href="defenitions.php#ControlUnity" alt="Control Unit Button">
+          <area shape="rect" coords="375,100,275,150" href="defenitions.php#ControlUnit" alt="Control Unit Button">
           <!-- Program Counter -->
           <area shape="rect" coords="320,190,270,150" href="defenitions.php#ProgramCounter" alt="Program Counter Button">
           <!-- Instruction Register -->

@@ -8,17 +8,17 @@
   <?php include ('includes/nav.php'); ?>
 
   <div class="container-fluid">
-  <h1>  Computer Organization</h1>
-  <h2> <a href='ComputerArchitecture.html'>Computer architecture </a></h2>
+  <h1 class="text-center">  Computer Organization</h1>
+  <h2> <a href='ComputerArchitecture.php'>Computer architecture </a></h2>
   <ul>
 <li>
-    2.1.1 Outline the architecture of the central processing unit (CPU) and the functions of the arithmetic logic unit (ALU) and the control unit (CU) and the registers within the CPU.
+    2.1.1 Outline the architecture of the central processing unit (<a href="defenitions.php#CentralProcessingUnit">CPU</a>) and the functions of the arithmetic logic unit (<a href="defenitions.php#ArithmaticLogicUnity">ALU</a>) and the control unit (<a href="defenitions.php#ControlUnit">CU</a>) and the registers within the CPU.
     </li>
-<li>2.1.2 Describe primary memory. 2 Distinguish between random access memory (RAM) and read-only memory (ROM), and their use in primary memory.
+<li>2.1.2 Describe <a href="primaryMemory.php">primary memory</a> . Distinguish between random access memory (RAM) and read-only memory (ROM), and their use in primary memory.
 
 </li>
 <li>
-2.1.3 Explain the use of cache memory. 3 Students should be able to explain the effect of cache memory in speeding up the system as well as being able to explain how it is used.
+2.1.3 Explain the use of cache memory. Students should be able to explain the effect of cache memory in speeding up the system as well as being able to explain how it is used.
 </li>
 <li>
 2.1.4 Explain the machine instruction cycle.
@@ -33,9 +33,12 @@
   <li>
     2.1.5 Identify the need for persistent storage.
   </li>
-  <li>
-    Operating systems and application systems
-  </li>
+
+</ul>
+<h2>
+  Operating systems and application systems
+</h2>
+<ul>
   <li>
   2.1.6 Describe the main functions of an operating system.
   </li>
@@ -59,7 +62,9 @@
   </li>
 </ul>
 <h2>
-  Simple logic gates
+  <a href="https://www.tutorialspoint.com/computer_logical_organization/logic_gates.htm">
+    Simple logic gates
+  </a>
 </h2>
 <ul>
   <li>
@@ -72,9 +77,6 @@
     2.1.13 Construct a logic diagram using AND, OR, NOT, NAND, NOR and XOR gates.
   </li>
 </ul>
-<h5>
-  Last modified: Monday, 21 August 2017, 7:02 AM
-</h5>
   </div>
 
 

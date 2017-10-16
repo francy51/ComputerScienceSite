@@ -18,7 +18,7 @@
   <h1>Application Software</h1>
 
   <p>
-    application sofware is useful software that through the operating system allows you to complete tasks such as writing a letter or browsing the web.
+    Application sofware is useful software that through the operating system allows you to complete tasks such as writing a letter or browsing the web.
     Some of the options offered by the apllication software infact are from the operating system and can be found in almost all apllications.
   </p>
   <img class="img-fluid" src="https://mrkelly.000webhostapp.com/content/IB_Computer_Science/Topic_2_Computer_organization/images/software_common_features.PNG" alt="Image of top file options">
