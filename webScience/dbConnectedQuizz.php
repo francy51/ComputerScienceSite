@@ -9,7 +9,7 @@
   <body>
     <div class="alert alert-danger">
       <strong>Warning!</strong> This quizz was made using my own device. <strong>It is not setup to work on the website. If you try and force this page to work you might brake the site.</strong>
-
+    </div>
     <!-- Nav Include -->
 
       <?php include '../includes/nav.php'; ?>
@@ -19,7 +19,7 @@
 
       <?php
 
-      $wordBank = ['TCP','SQL','C++','USB','TCP','UDP','SSL']
+      $wordBank = ['TCP','SQL','C++','USB','TCP','UDP','SSL'];
 
       $questionTable = 'questions';
       $servername = 'localhost';
@@ -55,7 +55,7 @@
               $q= $row['question_text'];
               if ($t == 1) {
 
-                $radioSQL = "SELECT DISTINCT key_point FROM key_language WHERE question_id=$id"
+                $radioSQL = "SELECT DISTINCT key_point FROM key_language WHERE question_id=$id";
 
                 $result = mysqli_query($con, $radioSQL);
                 if($result === FALSE) {
@@ -67,7 +67,7 @@
                 }
                 $radioSet = false;
                 echo "<div class=\"form-group\">";
-                       for ($i=4; $i < ; $i++) {
+                       for ($i=4; $i < 8; $i++) {
                          $numb = Trunc(rand(0,$wordBank.length + 10));
                          if ($numb > $wordBank.length && $radioSet == false) {
                            echo "<input type=\"radio\" name=\"$id\" value=\"$a\">";
